@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Walking Buddy</string>
+    
+    <!-- Permission Rationales -->
+    <string name="location_permission_rationale">Walking Buddy needs your location to show nearby walking partners and suggest local places.</string>
+    <string name="camera_permission_rationale">Allow camera access to update your profile photo.</string>
+    <string name="storage_permission_rationale">Allow storage access to save and share your walking photos.</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_name">Walking Buddy</string>
+    <string name="notification_channel_description">Notifications for walk requests and messages</string>
+    
+    <!-- Error Messages -->
+    <string name="error_network">No internet connection. Please check your network.</string>
+    <string name="error_location">Unable to get your location. Please enable location services.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    
+    <!-- Actions -->
+    <string name="action_retry">Retry</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_ok">OK</string>
+    <string name="action_send">Send</string>
+    <string name="action_accept">Accept</string>
+    <string name="action_decline">Decline</string>
+    
+    <!-- Features -->
+    <string name="feature_map">Map</string>
+    <string name="feature_messages">Messages</string>
+    <string name="feature_walks">Walks</string>
+    <string name="feature_profile">Profile</string>
+</resources>
